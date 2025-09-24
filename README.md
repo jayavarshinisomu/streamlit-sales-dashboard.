@@ -9,8 +9,9 @@ An interactive data dashboard built with Streamlit and Python for sales analysis
 - Export filtered data as CSV
 
  Screenshot
+![Dashboard Screenshot](README.MD.png)
 
-![Dashboard Screenshot](image.jpg)
+
 
 How to Run
 
